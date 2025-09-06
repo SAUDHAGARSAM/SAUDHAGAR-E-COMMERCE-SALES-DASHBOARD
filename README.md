@@ -11,7 +11,7 @@ This project transforms raw data (`Orders.csv` & `Details.csv`) into actionable 
 ---
 
 ## 🎯 Objective
-To analyze **sales trends, customer behavior, and profitability** across regions, categories, and payment methods, and provide **data-driven recommendations** to improve sales strategies.
+The owner of Saudhagar Store wanted a Power BI dashboard to track and analyze online sales across India, providing insights into customer behavior, product performance, and profitability.
 
 ---
 
