@@ -67,5 +67,6 @@ To analyze **sales trends, customer behavior, and profitability** across regions
 ⭐ If you like this project, don’t forget to **star the repo** and share feedback!
 
 
- ⚡ Keep grinding, keep glowing, keep growing 😎✨
+
 ---------------👋 Until then, byeee 🚀🌟 
+ ⚡ Keep grinding, keep glowing, keep growing 😎✨
