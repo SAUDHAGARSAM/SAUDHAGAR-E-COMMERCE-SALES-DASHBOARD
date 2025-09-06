@@ -15,6 +15,16 @@ To analyze **sales trends, customer behavior, and profitability** across regions
 
 ---
 
+
+📚 Project Learnings
+Analyzed e-commerce sales data to uncover trends and growth opportunities.
+Built an interactive Power BI dashboard to visualize sales and performance metrics.
+Applied complex parameters with drill-downs, filters, and slicers for deeper analysis.
+Created data relationships, joins, and calculations to enable user-driven exploration.
+Designed custom visualizations (bar, pie, donut, clustered bar, scatter, line, area, map, slicers) for comprehensive insights.
+
+---
+
 ## 📂 Dataset
 - `Orders.csv`
 - `Details.csv`
